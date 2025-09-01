@@ -1,0 +1,308 @@
+Customer ID: 1
+Name: Wong Wei Jun
+Nationality: Malaysian
+Email: example@example.com
+Address: blah blah
+Personal Contact: 123456789
+
+Customer ID: 2
+Name: Jie Hern
+Nationality: Pokemon
+Email: pika pika
+Address: diojowiqioq
+Personal Contact: 0123456789
+
+Customer ID: 3
+Name: ew
+Nationality: few
+Email: wef
+Address: fwerg
+Personal Contact: 0198765432
+
+Customer ID: 4
+Name: hi
+Nationality: bye
+Email: 123@123
+Address: 112345
+Personal Contact: 098123456
+
+Customer ID: 5
+Name: John
+Nationality: American
+Email: johnjohn@gmail.com
+Address: 02,Wallstreet
+Personal Contact: 0987654321
+
+Customer ID: 6
+Name: Bobby
+Nationality: Cuban
+Email: bobbybobs123@bobby.com
+Address: fqbioqfhnioqw
+Personal Contact: 0987652345
+
+Customer ID: 7
+Name: Alice Tan  
+Nationality: Singaporean  
+Email: alice.tan@gmail.com  
+Address: 101 Orchard Road  
+Personal Contact: 0111234567  
+
+Customer ID: 8
+Name: Bob Lee  
+Nationality: Korean  
+Email: boblee88@kmail.com  
+Address: 77 Gangnam Ave  
+Personal Contact: 0109988776  
+
+Customer ID: 9
+Name: Charlie Zhang  
+Nationality: Chinese  
+Email: czhang@hotmail.com  
+Address: 19 Beijing Lane  
+Personal Contact: 0167654321  
+
+Customer ID: 10
+Name: Daisy  
+Nationality: Martian  
+Email: daisy@space.org  
+Address: Mars Dome #4  
+Personal Contact: 1230000000  
+
+Customer ID: 11
+Name: Ethan  
+Nationality: Australian  
+Email: ethan.downunder@gmail.com  
+Address: 89 Koala St, Sydney  
+Personal Contact: 0191928374  
+
+Customer ID: 12
+Name: Fiona  
+Nationality: Irish  
+Email: fiona_green@leaves.ie  
+Address: 4 Clover Way  
+Personal Contact: 0173849201  
+
+Customer ID: 13
+Name: Greg  
+Nationality: Russian  
+Email: gregory@vodka.ru  
+Address: 21 Kremlin Road  
+Personal Contact: 0123456780  
+
+Customer ID: 14
+Name: Hannah  
+Nationality: Japanese  
+Email: hanachan@tokyo.jp  
+Address: 3-1-1 Harajuku  
+Personal Contact: 0901122334  
+
+Customer ID: 15
+Name: Ian  
+Nationality: Canadian  
+Email: ian@maple.ca  
+Address: 44 Maple Drive  
+Personal Contact: 0184433221  
+
+Customer ID: 16
+Name: Jenny  
+Nationality: Thai  
+Email: jenny_jasmine@thmail.com  
+Address: 17 Bangkok Lane  
+Personal Contact: 0123344556  
+
+Customer ID: 17
+Name: Kazi  
+Nationality: Bangladeshi  
+Email: kazi@dhaka.net  
+Address: 88 Tiger Street  
+Personal Contact: 0199988776  
+
+Customer ID: 18
+Name: Lucas  
+Nationality: Brazilian  
+Email: lucas.football@rio.br  
+Address: 10 Copacabana Blvd  
+Personal Contact: 0177162738  
+
+Customer ID: 19
+Name: Mei Lin  
+Nationality: Taiwanese  
+Email: meilin.tw@gmail.com  
+Address: 5 Night Market Street  
+Personal Contact: 0135764892  
+
+Customer ID: 20
+Name: Niko  
+Nationality: Greek  
+Email: niko@athens.gr  
+Address: 9 Olympus Lane  
+Personal Contact: 0129998887  
+
+Customer ID: 21
+Name: Olivia  
+Nationality: New Zealander  
+Email: oliviatree@kiwi.nz  
+Address: 6 Hobbiton Circle  
+Personal Contact: 0213849201  
+
+Customer ID: 22
+Name: Pablo  
+Nationality: Spanish  
+Email: pablo@flamenco.es  
+Address: 3 Madrid Way  
+Personal Contact: 0118877665  
+
+Customer ID: 23
+Name: Quinn  
+Nationality: South African  
+Email: quinn.cape@za.net  
+Address: 42 Safari Avenue  
+Personal Contact: 0789123456  
+
+Customer ID: 24
+Name: Rina  
+Nationality: Malaysian  
+Email: rina.malaysia@example.com  
+Address: 15 Jalan Ampang  
+Personal Contact: 0192345678  
+
+Customer ID: 25
+Name: Satoshi  
+Nationality: Japanese  
+Email: satoshi@poke.mon  
+Address: Pallet Town  
+Personal Contact: 0123434343  
+
+Customer ID: 26
+Name: Tina  
+Nationality: German  
+Email: tina_bier@berlin.de  
+Address: 5 Bratwurst Strasse  
+Personal Contact: 0177777777  
+
+Customer ID: 27
+Name: Umar  
+Nationality: Pakistani  
+Email: umar.khan@pk.net  
+Address: 55 Lahore Gate  
+Personal Contact: 0345123456  
+
+Customer ID: 28
+Name: Vicky  
+Nationality: Vietnamese  
+Email: vicky@saigon.vn  
+Address: 88 Dragon Road  
+Personal Contact: 0129393939  
+
+Customer ID: 29
+Name: William  
+Nationality: American  
+Email: will@freedom.us  
+Address: 1776 Liberty Blvd  
+Personal Contact: 0987123456  
+
+Customer ID: 30
+Name: Zara  
+Nationality: Emirati  
+Email: zara@dubai.ae  
+Address: 1 Desert Tower  
+Personal Contact: 0501234567  
+
+Customer ID: 31
+Name: Bobby Lesnar
+Nationality: Canadian
+Email: BobbyLes@hotmail.com
+Address: 123street
+Personal Contact: 0345678987
+
+Customer ID: 32
+Name: 
+Nationality: s
+Email: s
+Address: s
+Personal Contact: s
+
+Customer ID: 33
+Name: ron
+Nationality: malaysian
+Email: ronnyron@gmail.com
+Address: wdqfegrht
+Personal Contact: 098765432
+
+Customer ID: 34
+Name: s
+Nationality: s
+Email: s
+Address: s
+Personal Contact: s
+
+Customer ID: 35
+Name: Crow
+Nationality: India
+Email: crowcrow@gmail.com
+Address: Crow street
+Personal Contact: 09876543245
+
+Customer ID: 36
+Name: Lim
+Nationality: Malaysian
+Email: limmo@hotmail.com
+Address: Jalan Malaysia
+Personal Contact: 0987651234
+
+Customer ID: 37
+Name: wqefgr
+Nationality: wefgr
+Email: fsrg
+Address: fgrt
+Personal Contact: afeg
+
+Customer ID: 38
+Name: ewdf
+Nationality: dwfesd
+Email: wafesdgr
+Address: afes
+Personal Contact: dwaf
+
+Customer ID: 39
+Name: wefrg
+Nationality: wfe
+Email: wfe
+Address: wfe
+Personal Contact: efwsgr
+
+Customer ID: 40
+Name: dwefrg
+Nationality: wdfewgr
+Email: efwgr
+Address: egr
+Personal Contact: ewgrt
+
+Customer ID: 41
+Name: dfedrg
+Nationality: wefr
+Email: egr
+Address: ewfg
+Personal Contact: efwgr
+
+Customer ID: 42
+Name: wdq
+Nationality: wdq
+Email: wdq
+Address: wqd
+Personal Contact: wdq
+
+Customer ID: 43
+Name: dwq
+Nationality: qwd
+Email: qwd
+Address: wqd
+Personal Contact: wqd
+
+Customer ID: 44
+Name: Chew Jie Hern
+Nationality: Malaysian
+Email: aaa
+Address: aa
+Personal Contact: aaa
+

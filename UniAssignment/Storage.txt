@@ -1,0 +1,30 @@
+101,Hammer,25.50,1
+102,Screwdriver Set,19.99,1
+103,Drill Machine,120.00,1
+104,LED Bulb 10W,3.75,1
+105,Extension Cord 5m,12.60,0
+106,Paint Brush Set,8.99,0
+107,Wall Putty 1kg,6.49,0
+108,Pipe Wrench,18.25,0
+109,1/2 inch PVC Pipe (3m),4.30,1
+110,Tile Adhesive 20kg,22.00,0
+111,Portable Fan Heater,45.00,1
+112,Silicone Sealant,7.25,0
+113,Measuring Tape 5m,6.00,1
+114,Adjustable Spanner,15.90,1
+115,Gloves (Work Pair),3.50,0
+116,Nails (100 pcs),2.80,1
+117,Screws Assorted Pack,4.25,0
+118,Cement Bag 50kg,28.00,0
+119,Hand Saw,13.40,1
+120,Electric Tester,5.50,1
+121,Plastic Wall Plug (100 pcs),1.90,1
+122,Padlock 50mm,9.99,1
+123,Steel Wire Roll 1kg,11.50,1
+124,Hex Key Set,7.75,0
+125,Work Light Rechargeable,34.99,1
+126,Wire Cutter,10.20,1
+127,Claw Hammer,26.75,0
+128,Chisel Set,12.50,1
+129,Ladder 6ft,59.99,0
+130,Door Hinges (Pair),3.30,1
